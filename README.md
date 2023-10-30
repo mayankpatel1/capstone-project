@@ -86,4 +86,3 @@ Before getting started, ensure you have the following in place:
 
 - Regularly maintain and update your infrastructure, Docker images, Kubernetes configurations, and serverless functions for security, stability, and scalability.
 
-Feel free to adapt this README according to your specific project details and requirements. Provide detailed information on your directory structure, Jenkins configuration, and any other project-specific instructions.
