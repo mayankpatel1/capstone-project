@@ -1,5 +1,5 @@
 ---
-- name: Let's copy our executable script to remote location, execute script and get result back.
+- name: docker-project
   hosts: all
   remote_user: ec2-user
   tasks:
